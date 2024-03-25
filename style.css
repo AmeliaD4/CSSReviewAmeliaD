@@ -578,5 +578,5 @@ animation*/
   width: 100px;
   height: 100px;
   background-color: #db9495;
- animation: example3 10s ease-in 1s infinite alternate;
+ animation: example3 11s ease-in 1s infinite alternate;
 }
