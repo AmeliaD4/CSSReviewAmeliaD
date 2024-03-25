@@ -550,7 +550,7 @@ animation*/
 .caveDweller{
   width: 100px;
   height: 100px;
-  background-color: #94dbb6;
+  background-color: #94a6db;
   animation-name: example;
   animation-duration: 7s;
   position: relative;
@@ -563,7 +563,7 @@ animation*/
 .bomb{
   width: 100px;
   height: 100px;
-  background-color: #94dbb6;
+  background-color: #d7db94;
   animation-name: example;
   animation-duration: 7s;
   position: relative;
@@ -577,6 +577,6 @@ animation*/
 .finale{
   width: 100px;
   height: 100px;
-  background-color: #94dbb6;
+  background-color: #db9495;
  animation: example3 10s ease-in 1s infinite alternate;
 }
